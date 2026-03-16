@@ -36,7 +36,3 @@ The dashboard provides insights into sales trends, top-selling products, city-wi
 * `dashboard-preview.png` → dashboard screenshot
 * `README.md` → project documentation
 
-## Author
-
-Komal Nayan Sawant
-MSc Data Science
